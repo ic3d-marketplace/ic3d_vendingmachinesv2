@@ -2,7 +2,9 @@
 
 A cool vending UI
 
-## [Preview]([https://youtu.be/](https://youtu.be/8nQcVAV5tJQ))
+## [Preview]
+
+https://www.youtube.com/watch?v=8nQcVAV5tJQ
 
 # Features
 . Configurable range, item, price and prop(s)  
